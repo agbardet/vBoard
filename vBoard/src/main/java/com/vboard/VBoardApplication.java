@@ -8,5 +8,6 @@ public class VBoardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VBoardApplication.class, args);
+	
 	}
 }
